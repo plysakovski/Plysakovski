@@ -77,14 +77,11 @@ Meu GitHub funciona como **portfólio técnico**, onde compartilho projetos, est
 ---
 
 # 📊 Estatísticas
+<p align="center">
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,java,postgres,mongodb,git"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=plysakovski&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plysakovski&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 
