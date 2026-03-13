@@ -1,13 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Pedro%20Lysakovski&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Pedro%20Lysakovski&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
 
 <div align="center">
 
 # 👨‍💻 Pedro Lysakovski
 
-<!-- Espaço para frase futura -->
-<!-- "Sua frase aqui" -->
+<!-- espaço para frase futura -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications;Always+Learning+New+Technologies"/>
 
 <br>
 
@@ -17,16 +16,16 @@
 
 ---
 
-# 👨‍💻 Sobre mim
+# 🚀 Sobre mim
 
 💻 Desenvolvedor **Full Stack**
 
 🎓 Formado em **Técnico em Informática – IFRS Campus Osório**  
-📚 Atualmente cursando **Análise e Desenvolvimento de Sistemas**
+📚 Estudando **Análise e Desenvolvimento de Sistemas**
 
-🚀 Trabalho com desenvolvimento de aplicações modernas utilizando **React, Next.js, Node.js e Java**, sempre buscando código limpo, boas práticas e soluções escaláveis.
+🚀 Focado em desenvolvimento **React, Next.js e Node.js**, criando aplicações modernas, escaláveis e com boas práticas de engenharia.
 
-Meu GitHub funciona como **portfólio técnico**, onde compartilho projetos, estudos e experimentos.
+Este perfil funciona como **portfólio técnico**, onde compartilho projetos, estudos e experimentos.
 
 ---
 
@@ -34,32 +33,31 @@ Meu GitHub funciona como **portfólio técnico**, onde compartilho projetos, est
 
 - Aplicações **Full Stack com Next.js**
 - APIs REST com **Node.js**
-- Modelagem de banco de dados **PostgreSQL**
-- Projetos modernos com **React**
+- Modelagem de banco **PostgreSQL**
+- Interfaces modernas com **React**
 
 ---
 
 # 🧠 Atualmente aprendendo
 
-- Arquitetura de aplicações Full Stack
-- Next.js avançado
-- Estruturação de APIs
-- Boas práticas de backend
-- Modelagem de banco de dados
+- Arquitetura de aplicações web
+- Backend escalável
+- Boas práticas de API
+- Estruturação de projetos Full Stack
 
 ---
 
-# 🚀 Tech Stack
+# 🛠 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,java,postgres,mongodb,git" />
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,java,postgres,mongodb,git&theme=dark" />
 
 </div>
 
 ---
 
-# 📊 Estatísticas do GitHub
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -71,7 +69,7 @@ Meu GitHub funciona como **portfólio técnico**, onde compartilho projetos, est
 
 ---
 
-# 🔥 Streak Stats
+# 🔥 Contribution Streak
 
 <div align="center">
 
@@ -81,13 +79,13 @@ Meu GitHub funciona como **portfólio técnico**, onde compartilho projetos, est
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=plysakovski&theme=tokyo-night&hide_border=true"/>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏆 GitHub Achievements
 
 <div align="center">
 
@@ -97,25 +95,23 @@ Meu GitHub funciona como **portfólio técnico**, onde compartilho projetos, est
 
 ---
 
-# 🚧 Projetos em destaque
-
-*(Substitua pelos seus projetos principais)*
+# 🚀 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/plysakovski/NOME-DO-REPO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=plysakovski&repo=NOME-DO-REPO&theme=tokyonight"/>
+<a href="https://github.com/plysakovski/NOME-DO-PROJETO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=plysakovski&repo=NOME-DO-PROJETO&theme=tokyonight"/>
 </a>
 
-<a href="https://github.com/plysakovski/NOME-DO-REPO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=plysakovski&repo=NOME-DO-REPO&theme=tokyonight"/>
+<a href="https://github.com/plysakovski/NOME-DO-PROJETO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=plysakovski&repo=NOME-DO-PROJETO&theme=tokyonight"/>
 </a>
 
 </div>
 
 ---
 
-# 🌐 Conecte-se comigo
+# 🌐 Contato
 
 <div align="center">
 
@@ -135,7 +131,7 @@ Meu GitHub funciona como **portfólio técnico**, onde compartilho projetos, est
 
 ---
 
-# 🐍 Snake Animation
+# 🐍 Contribution Snake
 
 <div align="center">
 
@@ -145,4 +141,4 @@ Meu GitHub funciona como **portfólio técnico**, onde compartilho projetos, est
 
 ---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
