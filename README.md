@@ -68,9 +68,9 @@
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=plysakovski&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plysakovski&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -80,7 +80,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEUUSUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=plysakovski&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -88,7 +88,7 @@
 
 # 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEUUSUARIO&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=plyakovski&theme=tokyo-night&hide_border=true"/>
 
 ---
 
@@ -122,7 +122,7 @@ Tecnologias utilizadas
 
 # 🐍 Snake Animation
 
-![snake gif](https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/plysakovski/plyakovski/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
