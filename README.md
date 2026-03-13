@@ -1,6 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Pedro%20Lysakovski&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
-
-<img src="https://komarev.com/ghpvc/?username=plysakovski&color=blueviolet&style=for-the-badge"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Pedro%20Lysakovski&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 <div align="center">
 
@@ -9,28 +7,35 @@
 <!-- Espaço para frase futura -->
 <!-- "Sua frase aqui" -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+modern+web+applications"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=plysakovski&color=blueviolet&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🚀 Sobre mim
+# 👨‍💻 Sobre mim
 
 💻 Desenvolvedor **Full Stack**
 
 🎓 Formado em **Técnico em Informática – IFRS Campus Osório**  
 📚 Atualmente cursando **Análise e Desenvolvimento de Sistemas**
 
-⚡ Trabalho com desenvolvimento de aplicações modernas utilizando:
-
-- **React**
-- **Next.js**
-- **Node.js**
-- **Java**
-- **SQL**
+🚀 Trabalho com desenvolvimento de aplicações modernas utilizando **React, Next.js, Node.js e Java**, sempre buscando código limpo, boas práticas e soluções escaláveis.
 
 Meu GitHub funciona como **portfólio técnico**, onde compartilho projetos, estudos e experimentos.
+
+---
+
+# 🔭 Atualmente trabalhando em
+
+- Aplicações **Full Stack com Next.js**
+- APIs REST com **Node.js**
+- Modelagem de banco de dados **PostgreSQL**
+- Projetos modernos com **React**
 
 ---
 
@@ -44,44 +49,25 @@ Meu GitHub funciona como **portfólio técnico**, onde compartilho projetos, est
 
 ---
 
-# 💻 Tech Stack
+# 🚀 Tech Stack
 
-### Linguagens
+<div align="center">
 
-![JavaScript](https://img.shields.io/badge/javascript-0d1117?style=for-the-badge&logo=javascript)
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,java,postgres,mongodb,git" />
 
-![Java](https://img.shields.io/badge/java-0d1117?style=for-the-badge&logo=openjdk)
-
-![SQL](https://img.shields.io/badge/sql-0d1117?style=for-the-badge&logo=postgresql)
-
-### Frontend
-
-![React](https://img.shields.io/badge/react-0d1117?style=for-the-badge&logo=react)
-
-![Next.js](https://img.shields.io/badge/next.js-0d1117?style=for-the-badge&logo=nextdotjs)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/node.js-0d1117?style=for-the-badge&logo=nodedotjs)
-
-### Banco de Dados
-
-![PostgreSQL](https://img.shields.io/badge/postgresql-0d1117?style=for-the-badge&logo=postgresql)
-
-![MongoDB](https://img.shields.io/badge/mongodb-0d1117?style=for-the-badge&logo=mongodb)
-
-### Ferramentas
-
-![Git](https://img.shields.io/badge/git-0d1117?style=for-the-badge&logo=git)
+</div>
 
 ---
 
-# 📊 Estatísticas
-<p align="center">
+# 📊 Estatísticas do GitHub
 
-<img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,java,postgres,mongodb,git"/>
+<div align="center">
 
-</p>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=plysakovski&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plysakovski&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
@@ -95,49 +81,68 @@ Meu GitHub funciona como **portfólio técnico**, onde compartilho projetos, est
 
 ---
 
-# 📈 Activity Graph
+# 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=plysakovski&theme=tokyo-night&hide_border=true"/>
 
 ---
 
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=plysakovski&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
 # 🚧 Projetos em destaque
 
-*(Adicione seus projetos aqui)*
+*(Substitua pelos seus projetos principais)*
 
-### 🚀 Projeto 1
-Descrição breve  
-Tecnologias utilizadas
+<div align="center">
 
-### 🚀 Projeto 2
-Descrição breve  
-Tecnologias utilizadas
-
-### 🚀 Projeto 3
-Descrição breve  
-Tecnologias utilizadas
-
-## 🚀 Featured Projects
-
-<a href="https://github.com/plysakovski/NOME_DO_REPO">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=plysakovski&repo=NOME_DO_REPO&theme=tokyonight"/>
+<a href="https://github.com/plysakovski/NOME-DO-REPO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=plysakovski&repo=NOME-DO-REPO&theme=tokyonight"/>
 </a>
+
+<a href="https://github.com/plysakovski/NOME-DO-REPO">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=plysakovski&repo=NOME-DO-REPO&theme=tokyonight"/>
+</a>
+
+</div>
+
 ---
 
 # 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+<div align="center">
 
-[![Portfólio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel)](https://)
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin"/>
+</a>
 
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail)](mailto:)
+<a href="https://">
+<img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="mailto:">
+<img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail"/>
+</a>
+
+</div>
 
 ---
 
-# 🐍 Snake de contribuições
+# 🐍 Snake Animation
 
-![Snake animation](https://github.com/plysakovski/Plysakovski/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+![Snake animation](https://github.com/plysakovski/Plysakovski/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
