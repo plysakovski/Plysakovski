@@ -120,6 +120,11 @@ Tecnologias utilizadas
 Descrição breve  
 Tecnologias utilizadas
 
+## 🚀 Featured Projects
+
+<a href="https://github.com/plysakovski/NOME_DO_REPO">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=plysakovski&repo=NOME_DO_REPO&theme=tokyonight"/>
+</a>
 ---
 
 # 🌐 Conecte-se comigo
