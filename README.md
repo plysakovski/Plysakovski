@@ -140,7 +140,7 @@ Este perfil funciona como **portfólio técnico**, onde compartilho projetos, es
 <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="mailto:">
+<a href="mailto:plysakovski@gmail.com">
 <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail"/>
 </a>
 
