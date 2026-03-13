@@ -57,6 +57,15 @@ Este perfil funciona como **portfólio técnico**, onde compartilho projetos, es
 
 ---
 
+# ⚙️ Dev Workflow
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=vscode,github,git,postman,vercel,figma,docker&theme=dark" />
+
+</div>
+
+---
 # 📊 GitHub Stats
 
 <div align="center">
@@ -83,6 +92,14 @@ Este perfil funciona como **portfólio técnico**, onde compartilho projetos, es
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=plysakovski&theme=tokyo-night&hide_border=true"/>
 
+---
+# 📊 Developer Metrics
+
+<p align="center">
+
+<img src="https://metrics.lecoq.io/plysakovski?template=classic&config.timezone=America%2FSao_Paulo"/>
+
+</p>
 ---
 
 # 🏆 GitHub Achievements
