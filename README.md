@@ -87,26 +87,28 @@ Este perfil funciona como **portfólio técnico**, onde compartilho projetos, es
 </div>
 
 ---
-
 # 📈 Activity Graph
+
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=plysakovski&theme=tokyo-night&hide_border=true"/>
 
----
+</div>
+
 # 📊 Developer Metrics
 
-<p align="center">
+<div align="center">
 
-<img src="https://metrics.lecoq.io/plysakovski?template=classic&config.timezone=America%2FSao_Paulo"/>
+<img src="https://metrics.lecoq.io/plysakovski?template=classic&base.header=0&base.activity=1&base.community=1&base.repositories=1&config.timezone=America%2FSao_Paulo"/>
 
-</p>
+</div>
 ---
 
 # 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=plysakovski&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=plysakovski&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
@@ -116,12 +118,12 @@ Este perfil funciona como **portfólio técnico**, onde compartilho projetos, es
 
 <div align="center">
 
-<a href="https://github.com/plysakovski/NOME-DO-PROJETO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=plysakovski&repo=NOME-DO-PROJETO&theme=tokyonight"/>
+<a href="https://github.com/plysakovski/Trabalho-Moodle">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=plysakovski&repo=Trabalho-Moodle&theme=tokyonight"/>
 </a>
 
-<a href="https://github.com/plysakovski/NOME-DO-PROJETO">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=plysakovski&repo=NOME-DO-PROJETO&theme=tokyonight"/>
+<a href="https://github.com/plysakovski/Site-de-vendas-de-Brownie">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=plysakovski&repo=Site-de-vendas-de-Brownie&theme=tokyonight"/>
 </a>
 
 </div>
@@ -132,7 +134,7 @@ Este perfil funciona como **portfólio técnico**, onde compartilho projetos, es
 
 <div align="center">
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/plysakovski/">
 <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -140,8 +142,12 @@ Este perfil funciona como **portfólio técnico**, onde compartilho projetos, es
 <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel"/>
 </a>
 
-<a href="mailto:plysakovski@gmail.com">
+<a href="mailto:plysakovski@gmail.com?subject=Contato%20via%20GitHub">
 <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://mail.google.com/mail/?view=cm&to=plysakovski@gmail.com&su=Contato%20via%20GitHub">
+<img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail"/>
 </a>
 
 </div>
