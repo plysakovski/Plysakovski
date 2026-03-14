@@ -56,16 +56,6 @@ Este perfil funciona como **portfólio técnico**, onde compartilho projetos, es
 </div>
 
 ---
-
-# ⚙️ Dev Workflow
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,github,git,postman,vercel,figma,docker&theme=dark" />
-
-</div>
-
----
 # 📊 GitHub Stats
 
 <div align="center">
