@@ -86,8 +86,6 @@ Prévia funcional de um sistema de gestão de inventário desenvolvido para oper
 
 ### 📈 Gráfico de Atividade e Streak
 <img src="https://streak-stats.demolab.com?user=plysakovski&theme=tokyonight&hide_border=true"/>
-<br>
-<img src="https://github-profile-trophy.vercel.app/?username=plysakovski&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
 
