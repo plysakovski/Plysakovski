@@ -16,41 +16,41 @@
 
 # 🚀 Sobre mim
 
-💻 **Desenvolvedor Full Stack** na Y4 Solutions, atuando na construção de sistemas corporativos e institucionais complexos[cite: 1].
+💻 **Desenvolvedor Full Stack** na Y4 Solutions, atuando na construção de sistemas corporativos e institucionais complexos.
 
 📚 **Formação Acadêmica:**
 * Graduando em **Análise e Desenvolvimento de Sistemas** (IFRS Campus Osório)
-* Formado em **Técnico em Informática** (IFRS Campus Osório)[cite: 1]
+* Formado em **Técnico em Informática** (IFRS Campus Osório)
 
-Focado no ecossistema **TypeScript, Next.js, Node.js e PostgreSQL**[cite: 1]. Desenvolvo aplicações modernas, seguras e escaláveis, aplicando boas práticas de arquitetura de software, metodologias ágeis e forte foco em autonomia para ambientes remotos[cite: 1].
+Focado no ecossistema **TypeScript, Next.js, Node.js e PostgreSQL**. Desenvolvo aplicações modernas, seguras e escaláveis, aplicando boas práticas de arquitetura de software, metodologias ágeis e forte foco em autonomia para ambientes remotos[cite: 1].
 
 ---
 
 # 🚀 Projetos em Destaque (Portfolio)
 
 ### 🍃 [Sistema FinFolha](https://sistema-fin-folha.onrender.com/) — PWA de Controle Financeiro
-Aplicação web completa desenvolvida para simplificar o gerenciamento de receitas e despesas com foco em usabilidade, organização e acessibilidade[cite: 1].
-* **Tech Stack:** Node.js, Supabase (PostgreSQL), autenticação JWT, notificações push (VAPID), e-mails transacionais (Resend/Brevo) e deploy na Render[cite: 1].
-* **Acesse para testar:** https://sistema-fin-folha.onrender.com/[cite: 1]
-* **Usuário Demo:** `demofinfolha@gmail.com` | **Senha:** `finfolha2026`[cite: 1]
+Aplicação web completa desenvolvida para simplificar o gerenciamento de receitas e despesas com foco em usabilidade, organização e acessibilidade.
+* **Tech Stack:** Node.js, Supabase (PostgreSQL), autenticação JWT, notificações push (VAPID), e-mails transacionais (Resend/Brevo) e deploy na Render.
+* **Acesse para testar:** https://sistema-fin-folha.onrender.com/
+* **Usuário Demo:** `demofinfolha@gmail.com` | **Senha:** `finfolha2026`
 
 ### 🏢 Sistema de Gestão — PGM Porto Alegre *(Repositório Privado)*
-Sistema de Gestão Institucional desenvolvido para a Procuradoria-Geral do Município, responsável por centralizar o gerenciamento de processos, carteiras de procuradores e permissões[cite: 1].
-* **Tech Stack:** React, Node.js, PostgreSQL, Nginx (proxy reverso) e PM2[cite: 1].
-* **Destaques:** Controle de acesso baseado em perfis (RBAC), logs de auditoria com captura de IP, relatórios dinâmicos e dashboards analíticos[cite: 1].
+Sistema de Gestão Institucional desenvolvido para a Procuradoria-Geral do Município, responsável por centralizar o gerenciamento de processos, carteiras de procuradores e permissões.
+* **Tech Stack:** React, Node.js, PostgreSQL, Nginx (proxy reverso) e PM2.
+* **Destaques:** Controle de acesso baseado em perfis (RBAC), logs de auditoria com captura de IP, relatórios dinâmicos e dashboards analíticos.
 
 ### 📦 [Estoque BD_Fields](https://github.com/plysakovski/Sistema-de-Estoque.git) — Gestão de Inventário
-Prévia funcional de um sistema de gestão de inventário desenvolvido para operações de campo empresariais[cite: 1].
-* **Destaques:** Projetado para rodar localmente através de um servidor HTTP Python leve, operando sem dependências externas ou serviços em nuvem[cite: 1].
-* **Tech Stack:** HTML, CSS, JavaScript, Python e Batchfile[cite: 1].
+Prévia funcional de um sistema de gestão de inventário desenvolvido para operações de campo empresariais.
+* **Destaques:** Projetado para rodar localmente através de um servidor HTTP Python leve, operando sem dependências externas ou serviços em nuvem.
+* **Tech Stack:** HTML, CSS, JavaScript, Python e Batchfile.
 
 ---
 
 # 🔭 Atualmente trabalhando e focando em
 
 - Desenvolvimento Full Stack utilizando **Next.js (App Router)** e **TypeScript**
-- Construção de APIs REST eficientes com **Node.js**[cite: 1]
-- Otimização de bancos de dados relacionais com **PostgreSQL**[cite: 1]
+- Construção de APIs REST eficientes com **Node.js**
+- Otimização de bancos de dados relacionais com **PostgreSQL**
 - Arquitetura limpa, segurança de dados e testes automatizados
 
 ---
