@@ -39,7 +39,7 @@ Sistema de Gestão Institucional desenvolvido para a Procuradoria-Geral do Munic
 * **Tech Stack:** React, Node.js, PostgreSQL, Nginx (proxy reverso) e PM2.
 * **Destaques:** Controle de acesso baseado em perfis (RBAC), logs de auditoria com captura de IP, relatórios dinâmicos e dashboards analíticos.
 
-### 📦 [Estoque BD_Fields](https://github.com/plysakovski/Sistema-de-Estoque.git) — Gestão de Inventário
+### 📦 [StockMananger_Pro](https://github.com/plysakovski/Sistema-de-Estoque.git) — Gestão de Inventário
 Prévia funcional de um sistema de gestão de inventário desenvolvido para operações de campo empresariais.
 * **Destaques:** Projetado para rodar localmente através de um servidor HTTP Python leve, operando sem dependências externas ou serviços em nuvem.
 * **Tech Stack:** HTML, CSS, JavaScript, Python e Batchfile.
