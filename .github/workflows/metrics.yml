@@ -1,0 +1,41 @@
+name: Update Profile Metrics
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/metrics.yml"
+      - "scripts/generate-profile-metrics.mjs"
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-metrics
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate public GitHub metrics
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_USER: ${{ github.repository_owner }}
+        run: node scripts/generate-profile-metrics.mjs
+
+      - name: Commit updated metrics
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/readme/metrics.svg
+          git diff --cached --quiet || git commit -m "chore: atualiza métricas públicas"
+          git push

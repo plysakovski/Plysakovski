@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="100" viewBox="0 0 1280 100" role="img" aria-labelledby="title">
+  <title id="title">Código que resolve. Interfaces que incluem.</title>
+  <rect width="1280" height="100" rx="16" fill="#09080D"/>
+  <path d="M48 50h270M962 50h270" stroke="#2A2238"/>
+  <rect x="320" y="46" width="8" height="8" fill="#F6C85F"/>
+  <rect x="952" y="46" width="8" height="8" fill="#67E8F9"/>
+  <text x="640" y="56" text-anchor="middle" fill="#A78BFA" font-family="Consolas, monospace" font-size="14" letter-spacing="3">CÓDIGO QUE RESOLVE · INTERFACES QUE INCLUEM</text>
+</svg>

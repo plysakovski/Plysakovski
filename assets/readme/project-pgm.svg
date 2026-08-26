@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="320" viewBox="0 0 760 320" role="img" aria-labelledby="title desc">
+  <title id="title">Sistema de Gestão PGM Porto Alegre</title><desc id="desc">Case profissional de um sistema institucional privado.</desc>
+  <rect width="760" height="320" rx="22" fill="#09080D"/>
+  <rect x="1" y="1" width="758" height="318" rx="21" fill="none" stroke="#2A2238" stroke-width="2"/>
+  <circle cx="660" cy="68" r="98" fill="#F6C85F" opacity=".06"/>
+  <text x="42" y="48" fill="#F6C85F" font-family="Consolas, monospace" font-size="12" letter-spacing="2">003 / PROJETO PROFISSIONAL · PRIVADO</text>
+  <text x="42" y="104" fill="#FAF9FF" font-family="Arial, sans-serif" font-size="31" font-weight="700">Gestão — PGM Porto Alegre</text>
+  <text x="42" y="142" fill="#AAA4B5" font-family="Arial, sans-serif" font-size="17">Processos, carteiras, usuários e permissões com</text>
+  <text x="42" y="166" fill="#AAA4B5" font-family="Arial, sans-serif" font-size="17">RBAC, auditoria, dashboards e relatórios.</text>
+  <g font-family="Consolas, monospace" font-size="12">
+    <rect x="42" y="207" width="84" height="30" rx="15" fill="#20182E"/><text x="61" y="227" fill="#A78BFA">REACT</text>
+    <rect x="136" y="207" width="96" height="30" rx="15" fill="#20182E"/><text x="155" y="227" fill="#A78BFA">NODE.JS</text>
+    <rect x="242" y="207" width="112" height="30" rx="15" fill="#20182E"/><text x="259" y="227" fill="#A78BFA">POSTGRESQL</text>
+    <rect x="364" y="207" width="68" height="30" rx="15" fill="#20182E"/><text x="383" y="227" fill="#A78BFA">RBAC</text>
+  </g>
+  <path d="M42 274h590" stroke="#2A2238"/>
+  <text x="42" y="298" fill="#AAA4B5" font-family="Consolas, monospace" font-size="12" letter-spacing="1">CÓDIGO PROTEGIDO POR CONFIDENCIALIDADE</text>
+  <rect x="651" y="275" width="28" height="22" rx="4" fill="none" stroke="#F6C85F"/><path d="M658 275v-5a7 7 0 0 1 14 0v5" fill="none" stroke="#F6C85F"/>
+</svg>

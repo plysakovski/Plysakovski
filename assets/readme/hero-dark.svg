@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Pedro Lysakovski — Full Stack Developer</title>
+  <desc id="desc">Banner escuro com identidade visual roxa, grid técnico e monograma FS.</desc>
+  <defs>
+    <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse">
+      <path d="M64 0H0V64" fill="none" stroke="#13101C" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity=".20"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1280" height="360" rx="18" fill="#09080D"/>
+  <rect width="1280" height="360" rx="18" fill="url(#grid)"/>
+  <circle cx="1015" cy="180" r="230" fill="url(#glow)"/>
+  <g stroke="#AAA4B5" stroke-opacity=".34">
+    <path d="M42 38h18M51 29v18M1220 38h18M1229 29v18M42 322h18M51 313v18M1220 322h18M1229 313v18"/>
+  </g>
+  <rect x="80" y="70" width="9" height="9" fill="#F6C85F"/>
+  <path d="M104 74.5h112" stroke="#F6C85F" stroke-opacity=".62"/>
+  <path d="M80 286h9" stroke="#67E8F9" stroke-width="9"/>
+  <path d="M104 286h112" stroke="#67E8F9" stroke-opacity=".35"/>
+  <text x="78" y="160" fill="#FAF9FF" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="750" letter-spacing="-2">Pedro Lysakovski</text>
+  <text x="80" y="207" fill="#A78BFA" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" letter-spacing="6">FULL STACK DEVELOPER</text>
+  <text x="80" y="246" fill="#AAA4B5" font-family="Arial, Helvetica, sans-serif" font-size="20">Código limpo. Performance. Impacto real.</text>
+  <text x="80" y="310" fill="#AAA4B5" font-family="Consolas, 'Courier New', monospace" font-size="11" letter-spacing="2">GITHUB.COM/PLYSAKOVSKI  ·  RIO GRANDE DO SUL, BRASIL</text>
+  <text x="825" y="270" fill="none" stroke="#A78BFA" stroke-width="2.4" font-family="Arial, Helvetica, sans-serif" font-size="240" font-weight="800" letter-spacing="-18">FS</text>
+  <path d="M762 68v224" stroke="#13101C" stroke-width="2"/>
+  <text x="1186" y="84" fill="#67E8F9" font-family="Consolas, 'Courier New', monospace" font-size="10" letter-spacing="2">PL.01</text>
+</svg>

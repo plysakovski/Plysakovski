@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Stack técnica de Pedro Lysakovski</title><desc id="desc">Tecnologias organizadas em interface, back-end, dados e ferramentas.</desc>
+  <rect width="1200" height="380" rx="24" fill="#09080D"/>
+  <rect x="1" y="1" width="1198" height="378" rx="23" fill="none" stroke="#2A2238" stroke-width="2"/>
+  <text x="46" y="55" fill="#A78BFA" font-family="Consolas, monospace" font-size="13" letter-spacing="3">STACK / FERRAMENTAS QUE CONECTO PARA ENTREGAR PRODUTOS</text>
+  <path d="M46 78h1108" stroke="#2A2238"/>
+  <g font-family="Arial, sans-serif">
+    <text x="46" y="126" fill="#F6C85F" font-family="Consolas, monospace" font-size="12" letter-spacing="2">01 / INTERFACE</text>
+    <text x="46" y="166" fill="#FAF9FF" font-size="27" font-weight="700">Front-end</text>
+    <text x="46" y="204" fill="#AAA4B5" font-size="17">HTML5 · CSS3</text><text x="46" y="234" fill="#AAA4B5" font-size="17">JavaScript · React</text><text x="46" y="264" fill="#AAA4B5" font-size="17">Tailwind · Responsivo</text>
+    <text x="334" y="126" fill="#A78BFA" font-family="Consolas, monospace" font-size="12" letter-spacing="2">02 / LÓGICA</text>
+    <text x="334" y="166" fill="#FAF9FF" font-size="27" font-weight="700">Back-end</text>
+    <text x="334" y="204" fill="#AAA4B5" font-size="17">Node.js · Java</text><text x="334" y="234" fill="#AAA4B5" font-size="17">APIs REST · POO</text><text x="334" y="264" fill="#67E8F9" font-size="17">TypeScript · evoluindo</text>
+    <text x="622" y="126" fill="#67E8F9" font-family="Consolas, monospace" font-size="12" letter-spacing="2">03 / DADOS</text>
+    <text x="622" y="166" fill="#FAF9FF" font-size="27" font-weight="700">Banco de dados</text>
+    <text x="622" y="204" fill="#AAA4B5" font-size="17">SQL · PostgreSQL</text><text x="622" y="234" fill="#AAA4B5" font-size="17">Supabase</text><text x="622" y="264" fill="#67E8F9" font-size="17">MongoDB · evoluindo</text>
+    <text x="910" y="126" fill="#A78BFA" font-family="Consolas, monospace" font-size="12" letter-spacing="2">04 / FLUXO</text>
+    <text x="910" y="166" fill="#FAF9FF" font-size="27" font-weight="700">Ferramentas</text>
+    <text x="910" y="204" fill="#AAA4B5" font-size="17">Git · GitHub · Linux</text><text x="910" y="234" fill="#AAA4B5" font-size="17">Nginx · PM2</text><text x="910" y="264" fill="#AAA4B5" font-size="17">VS Code · Kanban</text>
+  </g>
+  <path d="M300 105v205M588 105v205M876 105v205" stroke="#2A2238"/>
+  <rect x="46" y="326" width="8" height="8" fill="#67E8F9"/><text x="68" y="335" fill="#AAA4B5" font-family="Consolas, monospace" font-size="11" letter-spacing="1">CIANO INDICA TECNOLOGIAS EM EVOLUÇÃO CONTÍNUA</text>
+</svg>
