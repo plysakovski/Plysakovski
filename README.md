@@ -1,124 +1,109 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Pedro%20Lysakovski&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Pedro%20Lysakovski&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Banner de apresentação de Pedro Lysakovski" />
 
 <div align="center">
 
-# 👨‍💻 Pedro Lysakovski
+# Olá, eu sou o Pedro! 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;TypeScript+%7C+PostgreSQL;Building+Scalable+Applications;Always+Learning+New+Technologies"/>
+### Desenvolvedor Full Stack | React · Node.js · PostgreSQL
 
-<br>
+Transformo requisitos complexos em aplicações web claras, rápidas e acessíveis.
 
-<img src="https://komarev.com/ghpvc/?username=plysakovski&color=blueviolet&style=for-the-badge"/>
+[![Portfólio](https://img.shields.io/badge/Ver_portfólio-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://plysakovski.github.io/Plysakovski_Repositorio/)
+[![LinkedIn](https://img.shields.io/badge/Conectar_no_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/plysakovski/)
+[![E-mail](https://img.shields.io/badge/Enviar_e--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:plysakovski@gmail.com?subject=Contato%20via%20GitHub)
+
+![Visualizações do perfil](https://komarev.com/ghpvc/?username=plysakovski&color=2c5364&style=flat-square&label=visualizações+do+perfil)
+
+</div>
+
+## Sobre mim
+
+Sou **Desenvolvedor Full Stack** e **Técnico em Informática pelo IFRS Campus Osório**. Minha trajetória combina desenvolvimento de software, suporte técnico em ambiente corporativo e a construção de produtos autorais com foco em problemas reais.
+
+- 💻 Experiência profissional em desenvolvimento **front-end e back-end**
+- 🧩 Interesse em software empresarial, APIs, bancos de dados e acessibilidade digital
+- 🛠️ Prática com **JavaScript, React, Node.js, SQL e PostgreSQL**
+- 🎓 Graduando em **Inteligência Artificial na FIAP**
+- 📍 Rio Grande do Sul, Brasil
+
+## Projetos em destaque
+
+| Projeto | O que entrega | Tecnologias |
+| :--- | :--- | :--- |
+| **[Sistema FinFolha](https://sistema-fin-folha.onrender.com/)** | PWA para controle de receitas e despesas, com autenticação, painel administrativo, notificações push e e-mails transacionais.<br><br>**Teste:** `demofinfolha@gmail.com` · senha `finfolha2026` | Node.js, Supabase, PostgreSQL, JWT, Web Push, Resend/Brevo e Render |
+| **[Estoque BD_Fields](https://github.com/plysakovski/Sistema-de-Estoque)** | Prévia funcional de gestão de inventário para operações de campo, executada localmente por um servidor HTTP leve e sem serviços em nuvem. | HTML, CSS, JavaScript, Python e Batchfile |
+| **Sistema de Gestão — PGM Porto Alegre** 🔒 | Sistema institucional para centralizar processos, carteiras, usuários e permissões, com RBAC, auditoria, dashboards e relatórios. O código é privado por se tratar de uma solução para órgão público. | React, Node.js, PostgreSQL, Nginx e PM2 |
+
+> Mais contexto, projetos e detalhes da minha trajetória estão no meu **[portfólio profissional](https://plysakovski.github.io/Plysakovski_Repositorio/)**.
+
+## Experiência e formação
+
+- **Técnico em Informática — Nova Ranp Tecnologia** · 2026 — presente<br>
+  Suporte N1/N2 a mais de 200 usuários, administração de chamados, dispositivos corporativos e documentação técnica.
+
+- **Desenvolvedor Full Stack — Y4 Solutions** · 2026<br>
+  Desenvolvimento de soluções web completas, versionamento com Git, colaboração em equipe e práticas ágeis.
+
+- **Graduação em Inteligência Artificial — FIAP** · em andamento
+
+- **Técnico em Informática — IFRS Campus Osório** · concluído em 2025
+
+## Tecnologias e ferramentas
+
+<div align="center">
+
+![Tecnologias: HTML, CSS, JavaScript, TypeScript, React, Node.js, Java, PostgreSQL, MongoDB, Git, GitHub, Linux, Nginx e VS Code](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,java,postgres,mongodb,git,github,linux,nginx,vscode&theme=dark&perline=7)
+
+</div>
+
+**Front-end:** HTML5, CSS3, JavaScript, React, Tailwind CSS e design responsivo<br>
+**Back-end:** Node.js, Java, APIs REST, orientação a objetos e TypeScript<br>
+**Dados:** SQL, PostgreSQL, Supabase e MongoDB<br>
+**Ferramentas:** Git, GitHub, Linux, Nginx, PM2, VS Code e Kanban
+
+## Em evolução contínua
+
+- Arquitetura de software, Clean Architecture e DDD
+- Testes automatizados com Jest, Cypress e Playwright
+- TypeScript, React e desenvolvimento de APIs REST
+- Inteligência Artificial aplicada a produtos de software
+- CI/CD, infraestrutura em nuvem e segurança de aplicações
+
+## Atividade pública no GitHub
+
+<div align="center">
+
+[![Repositórios públicos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fplysakovski&query=%24.public_repos&label=reposit%C3%B3rios%20p%C3%BAblicos&color=2c5364&style=for-the-badge&logo=github)](https://github.com/plysakovski?tab=repositories)
+[![Seguidores no GitHub](https://img.shields.io/github/followers/plysakovski?style=for-the-badge&logo=github&label=seguidores&color=0A66C2)](https://github.com/plysakovski?tab=followers)
+
+</div>
+
+> Os indicadores acima usam apenas dados públicos da API do GitHub. Atividades realizadas em organizações ou repositórios privados podem não aparecer aqui.
+
+### Contribuições públicas
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/plysakovski/Plysakovski/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/plysakovski/Plysakovski/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/plysakovski/Plysakovski/output/github-contribution-grid-snake.svg" alt="Histórico visual das contribuições públicas de Pedro Lysakovski no GitHub" />
+</picture>
+
+[Ver o histórico completo de contribuições](https://github.com/plysakovski)
 
 </div>
 
 ---
 
-# 🚀 Sobre mim
-
-💻 **Desenvolvedor Full Stack** na Y4 Solutions, atuando na construção de sistemas corporativos e institucionais complexos.
-
-📚 **Formação Acadêmica:**
-* Graduando em **Análise e Desenvolvimento de Sistemas** (IFRS Campus Osório)
-* Formado em **Técnico em Informática** (IFRS Campus Osório)
-
-Focado no ecossistema **TypeScript, Next.js, Node.js e PostgreSQL**. Desenvolvo aplicações modernas, seguras e escaláveis, aplicando boas práticas de arquitetura de software, metodologias ágeis e forte foco em autonomia para ambientes remotos[cite: 1].
-
----
-
-# 🚀 Projetos em Destaque (Portfolio)
-
-### 🍃 [Sistema FinFolha](https://sistema-fin-folha.onrender.com/) — PWA de Controle Financeiro
-Aplicação web completa desenvolvida para simplificar o gerenciamento de receitas e despesas com foco em usabilidade, organização e acessibilidade.
-* **Tech Stack:** Node.js, Supabase (PostgreSQL), autenticação JWT, notificações push (VAPID), e-mails transacionais (Resend/Brevo) e deploy na Render.
-* **Acesse para testar:** https://sistema-fin-folha.onrender.com/
-* **Usuário Demo:** `demofinfolha@gmail.com` | **Senha:** `finfolha2026`
-
-### 🏢 Sistema de Gestão — PGM Porto Alegre *(Repositório Privado)*
-Sistema de Gestão Institucional desenvolvido para a Procuradoria-Geral do Município, responsável por centralizar o gerenciamento de processos, carteiras de procuradores e permissões.
-* **Tech Stack:** React, Node.js, PostgreSQL, Nginx (proxy reverso) e PM2.
-* **Destaques:** Controle de acesso baseado em perfis (RBAC), logs de auditoria com captura de IP, relatórios dinâmicos e dashboards analíticos.
-
-### 📦 [StockMananger_Pro](https://github.com/plysakovski/Sistema-de-Estoque.git) — Gestão de Inventário
-Prévia funcional de um sistema de gestão de inventário desenvolvido para operações de campo empresariais.
-* **Destaques:** Projetado para rodar localmente através de um servidor HTTP Python leve, operando sem dependências externas ou serviços em nuvem.
-* **Tech Stack:** HTML, CSS, JavaScript, Python e Batchfile.
-
----
-
-# 🔭 Atualmente trabalhando e focando em
-
-- Desenvolvimento Full Stack utilizando **Next.js (App Router)** e **TypeScript**
-- Construção de APIs REST eficientes com **Node.js**
-- Otimização de bancos de dados relacionais com **PostgreSQL**
-- Arquitetura limpa, segurança de dados e testes automatizados
-
----
-
-# 🧠 Atualmente estudando e evoluindo
-
-- Testes automatizados (Jest, Cypress, Playwright)
-- Padrões de Arquitetura de Software Escaláveis (Clean Architecture / DDD)
-- DevOps básico, CI/CD e infraestrutura em nuvem
-
----
-
-# 🛠 Tech Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,postgres,mongodb,java,linux,nginx,git&theme=dark" />
+### Vamos construir algo juntos?
+
+Estou aberto a oportunidades, colaborações e conversas sobre desenvolvimento de software.
+
+[Portfólio](https://plysakovski.github.io/Plysakovski_Repositorio/) · [LinkedIn](https://www.linkedin.com/in/plysakovski/) · [E-mail](mailto:plysakovski@gmail.com?subject=Contato%20via%20GitHub)
 
 </div>
 
----
-
-# 📊 Estatísticas de Desenvolvedor
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=plysakovski&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=plysakovski&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-### 📈 Gráfico de Atividade e Streak
-<img src="https://streak-stats.demolab.com?user=plysakovski&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🌐 Contato & Conexões
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/plysakovski/">
-  <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://plysakovski.github.io/Plysakovski_Repositorio/">
-  <img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="mailto:plysakovski@gmail.com?subject=Contato%20via%20GitHub">
-  <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail"/>
-</a>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/plysakovski/Plysakovski/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" alt="Rodapé decorativo" />
