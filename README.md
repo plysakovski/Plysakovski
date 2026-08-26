@@ -61,7 +61,7 @@ DISPONIBILIDADE Oportunidades, colaborações e projetos de software
 
 | Período | Experiência |
 | :--- | :--- |
-| **2026 — presente** | **Técnico em Informática · Nova Ranp Tecnologia**<br>Suporte N1/N2 para mais de 200 usuários, administração de chamados, dispositivos corporativos e documentação técnica. |
+| **2026** | **Técnico em Informática · Nova Ranp Tecnologia**<br>Suporte N1/N2 para mais de 200 usuários, administração de chamados, dispositivos corporativos e documentação técnica. |
 | **2026** | **Desenvolvedor Full Stack · Y4 Solutions**<br>Desenvolvimento de soluções web completas, versionamento com Git, colaboração em equipe e práticas ágeis. |
 | **Em andamento** | **Graduação em Inteligência Artificial · FIAP** |
 | **Concluído em 2025** | **Técnico em Informática · IFRS Campus Osório** |
@@ -84,9 +84,9 @@ As métricas são produzidas diariamente neste repositório usando a API oficial
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/plysakovski/Plysakovski/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/plysakovski/Plysakovski/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/plysakovski/Plysakovski/output/github-contribution-grid-snake-dark.svg" alt="Animação das contribuições públicas de Pedro Lysakovski no GitHub" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/plysakovski/Plysakovski/output/github-contribution-grid-snake-dark.svg?v=purple-2026-08" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/plysakovski/Plysakovski/output/github-contribution-grid-snake.svg?v=purple-2026-08" />
+    <img src="https://raw.githubusercontent.com/plysakovski/Plysakovski/output/github-contribution-grid-snake-dark.svg?v=purple-2026-08" alt="Animação das contribuições públicas de Pedro Lysakovski no GitHub" />
   </picture>
 </p>
 
